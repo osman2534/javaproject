@@ -10,6 +10,7 @@ public class JavaProject {
         hello = "osman";
         return hello;
 
+
     }
 
 
